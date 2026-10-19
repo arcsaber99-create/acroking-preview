@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-label="Garf Bonsai sample illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="rgb(234 243 239)"/>
+      <stop offset="1" stop-color="rgb(200 225 214)"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#bg)"/>
+  <ellipse cx="400" cy="700" rx="180" ry="22" fill="#2c8a62" opacity="0.12"/>
+  <g transform="rotate(0.34 400 640)"><path d="M 400.0 690.0 Q 375.3 610.1 401.8 530.7" stroke="#2c8a62" stroke-width="37.5" fill="none" stroke-linecap="round"/><path d="M 401.8 530.7 Q 346.0 514.8 315.8 465.2" stroke="#2c8a62" stroke-width="26.9" fill="none" stroke-linecap="round"/><path d="M 315.8 465.2 Q 285.2 484.3 249.5 489.5" stroke="#2c8a62" stroke-width="19.3" fill="none" stroke-linecap="round"/><path d="M 315.8 465.2 Q 293.3 436.0 291.9 399.2" stroke="#2c8a62" stroke-width="19.1" fill="none" stroke-linecap="round"/><circle cx="401.8" cy="530.7" r="23.3" fill="#2c8a62"/><circle cx="401.8" cy="530.7" r="10.5" fill="#c6ead9"/><circle cx="315.8" cy="465.2" r="16.7" fill="#2c8a62"/><circle cx="315.8" cy="465.2" r="7.5" fill="#c6ead9"/><circle cx="249.5" cy="489.5" r="12.0" fill="#2c8a62"/><circle cx="249.5" cy="489.5" r="5.4" fill="#c6ead9"/><circle cx="291.9" cy="399.2" r="11.9" fill="#2c8a62"/><circle cx="291.9" cy="399.2" r="5.3" fill="#c6ead9"/></g>
+</svg>
